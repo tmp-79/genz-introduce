@@ -1,7 +1,6 @@
-import AppForm from "../../../app-form/AppForm";
 import AppFormGroup from "../../../app-form/AppFormGroup";
 import AppFormSubmit from "../../../app-form/AppFormSubmit";
-import AppControls from "../../../controls/app-controls/AppControls";
+import AppControls from '../../../controls/'
 import AppButton from "../../../controls/app-button/AppButton";
 // hook
 import { useState } from "react";
